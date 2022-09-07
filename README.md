@@ -8,7 +8,7 @@ measurements and test the approach on the robots in the P&G robotics lab.
 
 ## Brief presentation of the chapters
 
-In **Chapter 1**, motivations and objectives of this thesis work.
+In ***Chapter 1***, motivations and objectives of this thesis work.
 
 In ***Chapter 2*** an introduction of the Theoretical starting point will be introduced, such as AI
 planning, Previous Practice used, Robot Kinematics, Robot Control, Motion Planning,
