@@ -6,6 +6,10 @@ Final work of the M.Sc. degree course in Artificial Intelligence and Robotics - 
 Develop a framework of AI Planning for the execution of Robotics lab quality
 measurements and test the approach on the robots in the P&G robotics lab.
 
+## Work presentation (video)
+
+https://www.youtube.com/watch?v=R3PepZIOkiE
+
 ## Brief presentation of the chapters
 
 In ***Chapter 1***, motivations and objectives of this thesis work.
