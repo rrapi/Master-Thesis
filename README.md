@@ -1,6 +1,6 @@
 # Master-Thesis
 
-In this repository, the final work of the M.Sc. degree course in Artificial Intelligence and Robotics - Sapienza, Rome (IT).
+In this repository, the final work of the M.Sc. degree in Artificial Intelligence and Robotics - Sapienza, Rome (IT).
 
 This thesis work was born and developed within the European context: [AIPlan4EU](https://www.aiplan4eu-project.eu/) from the collaboration of the Procter & Gamble Services Company (Belgium) and "La Sapienza" University of Rome.
 
